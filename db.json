@@ -1,0 +1,28 @@
+{
+	"suggestions": [{
+			"id": 2,
+			"message":"انا عايز ١ ٢ ٣ في التطبيق و عايز ساندويتش :D",
+			"date": 1562032451,
+			"typeId": 1,
+			"sender": {
+				"id": 12,
+				"name": "سارة سعود",
+				"familyId": 1,
+				"relation": "mother",
+				"avatar": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/profile-picture-demo-7.jpg?alt=media&token=1ee439a8-4b56-47d3-9c4a-cad504c070e9"
+			}
+		}, {
+				"id": 3,
+				"message": "أريد أن اعرف مكان لتعليم الطفل طريقة الحساب",
+				"date": 1562032442,
+				"typeId": 2,
+				"sender": {
+					"id": 12,
+					"name": "سارة سعود",
+					"familyId": 1,
+					"relation": "mother",
+					"avatar": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/profile-picture-demo-7.jpg?alt=media&token=1ee439a8-4b56-47d3-9c4a-cad504c070e9"
+				}
+			}
+	]
+}
