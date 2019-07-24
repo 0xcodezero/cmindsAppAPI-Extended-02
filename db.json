@@ -24,5 +24,88 @@
 					"avatar": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/profile-picture-demo-7.jpg?alt=media&token=1ee439a8-4b56-47d3-9c4a-cad504c070e9"
 				}
 			}
-	]
+    ],
+    "articles": [{
+        "id": 1,
+        "title": "ضبط سلوك الطفل",
+        "link": "https://mawdoo3.com/%D8%B6%D8%A8%D8%B7_%D8%B3%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B7%D9%81%D9%84",
+        "photo": "https://modo3.com/thumbs/fit630x300/171096/1493121800/%D8%B6%D8%A8%D8%B7_%D8%B3%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B7%D9%81%D9%84.jpg",
+        "publish_date": 1561037603,
+        "author": {
+            "id": 12,
+            "name": "سارة السعيد",
+            "bio": "دكتورة تعليم احتياجات خاصة",
+            "photo": "https://identity-mag.com/wp-content/uploads/2019/03/nouf-al-salem.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "title": "فوائد قراءة القصص للأطفال",
+        "link": "https://www.facebook.com/",
+        "photo": "https://modo3.com/thumbs/fit630x300/165450/1491123568/%D9%81%D9%88%D8%A7%D8%A6%D8%AF_%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D8%A7%D9%84%D9%82%D8%B5%D8%B5_%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.jpg",
+        "publish_date": 1561037603,
+        "author": {
+            "id": 12,
+            "name": "سارة السعيد",
+            "bio": "دكتورة تعليم احتياجات خاصة",
+            "photo": "https://identity-mag.com/wp-content/uploads/2019/03/nouf-al-salem.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "title": "طرق علاج ضعف التركيز عند الأطفال",
+        "link": "https://www.yahoo.com/",
+        "photo": "https://modo3.com/thumbs/fit630x300/161525/1525095526/%D8%B7%D8%B1%D9%82_%D8%B9%D9%84%D8%A7%D8%AC_%D8%B6%D8%B9%D9%81_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.jpg",
+        "publish_date": 1561037603,
+        "author": {
+            "id": 13,
+            "name": "دعاء مجدي",
+            "bio": "دكتورة صيدلية، مهتمة بآساليب تعليم المنتسوري",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yvz-5EWkylCY_N51aQD0V4KqOQGHgMKoddCnuruFzApgnph0"
+        }
+    }
+    ],
+    "profiles":
+    [
+        {
+            "id" : 12,
+            "name": "سارة سعود",
+            "familyId": 1,
+            "relation": "mother",
+            "avatar" : "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/profile-picture-demo-7.jpg?alt=media&token=1ee439a8-4b56-47d3-9c4a-cad504c070e9",
+            "token": "YGrVXm559rQVdRoQNJl1X-b2Vq_we_A6",
+            "kids": [{
+                "id": 12,
+                "name": "لجين",
+                "familyId": 1,
+                "birthYear": 2017,
+                "genderMale": false
+            },
+            {
+                "id": 10,
+                "name": "ياسين",
+                "familyId": 1,
+                "birthYear": 2015,
+                "genderMale": true
+            }
+            ]
+        },
+        {
+            "id" : 13,
+            "name": "دعاء",
+            "familyId": 20,
+            "avatar" : "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/Chloe-Boehm-Profile-photo.jpg?alt=media&token=8f17d470-5e5e-479d-a905-35de4d01dd84",
+            "token": "X9Irc70JMQBu4G8YuKV8uFtCh81kWByj",
+            "relation": "mother",
+            "kids": [
+                {
+                    "id": 2,
+                    "name": "محمد",
+                    "familyId": 20,
+                    "birthYear": 2013,
+                    "genderMale": true
+                }
+            ]
+        }
+    ]
 }
